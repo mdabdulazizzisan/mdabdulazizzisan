@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdabdulazizzisan](https://github.com/mdabdulazizzisan)
 
-- 📚 wish to learn **go**
+- 📚 wish to learn **golang**
 
 - 📫 How to reach me **binabdulaziz4983@gmail.com**
 
