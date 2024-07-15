@@ -2,11 +2,18 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=struggling+android+developer+%F0%9F%93%B1;will+be+learning+ML+soon+%F0%9F%A4%96;wish+to+be+regular+on+youtube+%F0%9F%8E%A5+" alt="Typing SVG" /></a>
 
+
+<div align="center">
+<h2>🐍 My Contributions 🐍</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake.svg">
 </picture>
+<br><br>
+</div>
+
+---
 
    <p align="right">
       <a href="https://www.youtube.com/@FreeAltSoftwareTutorials?sub_confirmation=1">
@@ -35,18 +42,27 @@
 
 - ⚡ Fun fact **continuously missing dates to fix unwanted and unexpected issues in my dev workflow**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🔗 Connect with me:</h3><br>
 <p align="left">
 <a href="https://twitter.com/abdulazizzisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulazizzisan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdabdulazizzisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabdulazizzisan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdabdulazizzisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdabdulazizzisan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">👨🏽‍💻 Languages and Tools:</h3><br>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+
+<h3 align="left">📜 Stats:</h3>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdulazizzisan&show_icons=true&locale=en&layout=compact" alt="mdabdulazizzisan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&" alt="mdabdulazizzisan" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&" alt="mdabdulazizzisan" /></p>
