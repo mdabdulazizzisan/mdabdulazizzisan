@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zisan</h1>
-<h3 align="center">A struggling android developer. Wish to learn ML soon.</h3>
+<h1 align="center">𓇢𓆸 Zisan</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=struggling+android+developer+%F0%9F%93%B1;will+be+learning+ML+soon+%F0%9F%A4%96;wish+to+be+regular+on+youtube+%F0%9F%8E%A5+" alt="Typing SVG" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdulazizzisan&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdulazizzisan" /> </p>
 
