@@ -11,7 +11,7 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mdabdulazizzisan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/mdabdulazizzisan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mdabdulazizzisan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> 
 
 <img align="right" alt="coding" width="150" src="https://camo.githubusercontent.com/98305f2e1d7cd74cfeefb6e90e8f5829d0a129b5aff576116fcccc3af5361992/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966">
 
