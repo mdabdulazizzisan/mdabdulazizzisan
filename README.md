@@ -2,6 +2,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=struggling+android+developer+%F0%9F%93%B1;will+be+learning+ML+soon+%F0%9F%A4%96;wish+to+be+regular+on+youtube+%F0%9F%8E%A5+" alt="Typing SVG" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdabdulazizzisan/mdabdulazizzisan/output/github-contribution-grid-snake.svg">
+</picture>
+
    <p align="right">
       <a href="https://www.youtube.com/@FreeAltSoftwareTutorials?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCB_A9bKnRCXh0nSULP5MMXw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
