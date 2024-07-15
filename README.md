@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdulazizzisan&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdulazizzisan" /> </p>
 
+<img align="right" alt="coding" width="150" src="https://camo.githubusercontent.com/98305f2e1d7cd74cfeefb6e90e8f5829d0a129b5aff576116fcccc3af5361992/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966">
+
 - 🔭 currently working on [Medicinal Leaf Classification Android Deployment](https://github.com/mdabdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)
 
-- 🌱 currently learning **Android Develpment, Machine Learning, Machine Learning Model Deployment on Android**
+- 🌱 currently learning **Android Develpment, Machine Learning, ML Model Deployment: Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdabdulazizzisan](https://github.com/mdabdulazizzisan)
 
