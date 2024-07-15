@@ -3,13 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=struggling+android+developer+%F0%9F%93%B1;will+be+learning+ML+soon+%F0%9F%A4%96;wish+to+be+regular+on+youtube+%F0%9F%8E%A5+" alt="Typing SVG" /></a>
 
    <p align="right">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/@FreeAltSoftwareTutorials?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCB_A9bKnRCXh0nSULP5MMXw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/@FreeAltSoftwareTutorials">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCB_A9bKnRCXh0nSULP5MMXw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/mdabdulazizzisan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mdabdulazizzisan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/mdabdulazizzisan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mdabdulazizzisan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
