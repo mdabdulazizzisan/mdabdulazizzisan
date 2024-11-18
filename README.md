@@ -1,6 +1,6 @@
 <h1 align="left">𓇢𓆸 Zisan</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Android+Developer;Open+to+jobs;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=false&random=false&width=435&lines=Android+Developer;Open+to+job+opportunities;" alt="Typing SVG" /></a>
 
 <!-- 
 <div align="center">
@@ -41,18 +41,18 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mdabdulazizzisan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+<!--
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulazizzisan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">📜 Stats:</h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdulazizzisan&show_icons=true&locale=en&layout=compact" alt="mdabdulazizzisan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdulazizzisan&show_icons=true&locale=en&layout=compact" alt="mdabdulazizzisan" /></p>
+<!-- <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p> -->
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&" alt="mdabdulazizzisan" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&" alt="mdabdulazizzisan" /></p>
