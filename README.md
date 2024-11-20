@@ -15,6 +15,7 @@
  -->
  ## 💫 Project Highlights:
 💸 [Crypto Tracker App](https://github.com/mdabdulazizzisan/Crypto-Tracker)<br>
+🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/mdabdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
 
 ## 💫 Current Status:
 🔭 Working on [Crypto Tracker App](https://github.com/mdabdulazizzisan/Crypto-Tracker)<br>
