@@ -13,6 +13,8 @@
 <br><br>
 </div>
  -->
+ ## 💫 Project Highlights:
+💸 [Crypto Tracker App](https://github.com/mdabdulazizzisan/Crypto-Tracker)<br>
 
 ## 💫 Current Status:
 🔭 Working on [Crypto Tracker App](https://github.com/mdabdulazizzisan/Crypto-Tracker)<br>
