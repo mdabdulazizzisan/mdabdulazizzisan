@@ -18,7 +18,7 @@
 ### 🍃 [Medicinal Leaf Classification Model Deployment: Android](https://github.com/mdabdulazizzisan/Leaf-Classification-ML-Model-Android-Deployment)<br>
 
 ## 💫 Current Status:
-🔭 Working on [Crypto Tracker App](https://github.com/mdabdulazizzisan/Crypto-Tracker)<br>
+🔭 Working on [Task Manager](https://github.com/mdabdulazizzisan/TaskManager)<br>
 🤝 looking for Internships & Remote Jobs<br>
 🌱 Learning Jetpack Compose & Android Architecture principles (eg: DI, Clean code, MVVM etc)
 
