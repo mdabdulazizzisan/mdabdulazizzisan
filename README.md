@@ -59,4 +59,4 @@
 <!-- <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p> -->
 
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&" alt="mdabdulazizzisan" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdabdulazizzisan&theme=highcontrast&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdabdulazizzisan&theme=highcontrast)](https://git.io/streak-stats)
