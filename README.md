@@ -60,7 +60,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mdabdulazizzisan&theme=highcontrast)](https://git.io/streak-stats) -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kolinabir&theme=react-dark&hide_border=true&area=true" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulazizzisan&theme=react-dark&hide_border=true&area=true" width="90%">
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdulazizzisan&theme=algolia&hide_border=true" width="49%" alt="Streak Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulazizzisan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
