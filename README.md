@@ -53,9 +53,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">📜 Stats:</h3>
-<br>
+<be>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdulazizzisan&show_icons=true&locale=en&layout=compact" alt="mdabdulazizzisan" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdulazizzisan&show_icons=true&locale=en&layout=compact" alt="mdabdulazizzisan" /></p> -->
 <!-- <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p> -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mdabdulazizzisan&theme=highcontrast)](https://git.io/streak-stats) -->
