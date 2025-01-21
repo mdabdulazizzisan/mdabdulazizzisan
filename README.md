@@ -40,9 +40,10 @@
 ![Room Database](https://img.shields.io/badge/Room%20Database-%23191a19.svg?style=for-the-badge&logo=apache&logoColor=white&textColor=white)
 ![Ktor Client](https://img.shields.io/badge/Ktor%20Client-%23744fbf.svg?style=for-the-badge&logo=internetcomputer&logoColor=white&textColor=white)
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdabdulazizzisan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 
 <!--
 ## 📊 GitHub Stats:
@@ -52,17 +53,16 @@
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h3 align="left">📜 Stats:</h3>
-<be>
+## 📋 Stats:</h3>
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdulazizzisan&show_icons=true&locale=en&layout=compact" alt="mdabdulazizzisan" /></p> -->
 <!-- <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdulazizzisan&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p> -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mdabdulazizzisan&theme=highcontrast)](https://git.io/streak-stats) -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulazizzisan&theme=react-dark&hide_border=true&area=true" width="90%">
 <p align="center">
 <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=mdabdulazizzisan&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulazizzisan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulazizzisan&theme=react-dark&hide_border=true&area=true" width="90%">
 </p>
 </div>
