@@ -66,4 +66,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulazizzisan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdulazizzisan&theme=react-dark&hide_border=true&area=true" width="90%">
 </p>
-</div> 
+</div>
